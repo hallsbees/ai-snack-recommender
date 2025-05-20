@@ -1,0 +1,1 @@
+import React from 'react'; function App() { return <h1>AI 간식 추천기</h1>; } export default App;
